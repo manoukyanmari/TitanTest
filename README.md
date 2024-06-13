@@ -6,7 +6,7 @@ Thanks for the opportunity after missing out because of the spam issue.
 I have the runner (executer) file: **index.py**.
 index.py runs the main implementation (service) which is: **data_extractor.py**.
 
-#### I used some libs to help with dates, csv export and os (to create a file automatically).
+#### I used some libs to help with *dates, csv export and os(to create a file automatically)*.
 
 
 #### First I had to setup Python on my new Macos and had to go through the following links, part of my time went on these things:
