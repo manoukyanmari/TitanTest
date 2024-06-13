@@ -4,9 +4,9 @@ Thanks for the opportunity after missing out because of the spam issue.
 ### *This is my first full small project in Python.*
 
 
-#### I have the **index.py** file as a runner (executer):####
+#### EXECUTOR:####
 
-- index.py runs the main implementation (service) which is: **data_extractor.py**.
+- index-not-needed.py was named index.py to run the main implementation (service) which is: **data_extractor.py**, but as I saw we should have ONE file, I moved the running part to the **data_extractor.py** file in the end. 
 
 ##### Inside the "data" folder we have our given data and my "result-file":
 
