@@ -1,3 +1,6 @@
+Hi dear Service Titan team. I am honored to finally do the task, as it was lost in my SPAM folder before.
+Thanks for the opportunity after missing out because of the spam issue.
+
 *This is my first full small project in Python.*
 
 I have the runner (executer) file: **index.py**.
