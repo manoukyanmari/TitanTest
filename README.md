@@ -8,7 +8,7 @@ Thanks for the opportunity after missing out because of the spam issue.
 
 - index.py runs the main implementation (service) which is: **data_extractor.py**.
 
-#####Inside the "data" folder we have our given data and my "result-file":
+##### Inside the "data" folder we have our given data and my "result-file":
 
 - In the end, old data saves to expired: *"expired_invoices.txt"*.
 - After transforming pkl file, the new data is generated and extracted as *"transformed_invoices.csv"*.
