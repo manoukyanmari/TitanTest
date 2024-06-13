@@ -3,11 +3,16 @@ Thanks for the opportunity after missing out because of the spam issue.
 
 #### *This is my first full small project in Python.*
 
+
 I have the runner (executer) file: **index.py**.
 index.py runs the main implementation (service) which is: **data_extractor.py**.
 
-#### I used some libs to help with *dates, csv export and os(to create a file automatically)*.
+#####Inside the "data" folder we have our given data and my "result-file":
 
+In the end, old data saves to expired: *"expired_invoices.txt"*.
+After transforming pkl file, the new data is generated and extracted as *"transformed_invoices.csv"*.
+
+#### I used some libs to help with *dates, csv export and os(to create a file automatically)*.
 
 #### First I had to setup Python on my new Macos and had to go through the following links, part of my time went on these things:
 
